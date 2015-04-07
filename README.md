@@ -1,5 +1,4 @@
-# autocomplete
-SocialStrap - Autocomplete addon
+# SocialStrap - Autocomplete addon
 
 http://www.socialstrap.net
 
